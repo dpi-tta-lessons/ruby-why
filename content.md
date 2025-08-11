@@ -106,13 +106,12 @@ Learning Ruby isn't just about learning a language, it's about learning how to t
 Ruby code often reads like English:
 
 ```ruby
+# This prints "Hello!" five times, no extra punctuation or complexity needed.
 5.times do
   print "Hello!"
 end
 ```
 {: .repl }
-
-This prints "Hello!" five times, no extra punctuation or complexity needed.
 
 Other languages (Java in this example) are more verbose and imposing for beginners.
 
@@ -127,7 +126,7 @@ public class HelloLoop {
 ```
 
 <aside class="tip">
-  Many companies use Java today. It's a great second language!
+  Many companies use Java. Don't be intimidated if you don't understand this code just yet. It's a great choice for your second (or third) programming language.
 </aside>
 
 ## 8. Community & Conventions
@@ -158,10 +157,6 @@ Ruby isn't just for learning, it powers some of the world's biggest and most suc
 - [Coinbase](https://stackshare.io/coinbase/coinbase) - Digital wallet that allows you to securely buy, use, and accept cryptocurrency.
 - [Twitter / X](https://stackshare.io/twitter/twitter) - Microblogging and social networking service
 
-<aside class="tip">
-  <strong>Tip:</strong> Even companies that move to other languages for some services often keep Rails for core systems because of its stability and productivity.
-</aside>
-
 ### Practice Challenge
 
 Pick one company from the list above. Visit its StackShare link. Identify at least two other technologies it uses alongside Ruby/Rails. Write down how those tools might interact in a real application.
@@ -170,14 +165,14 @@ Pick one company from the list above. Visit its StackShare link. Identify at lea
 
 Even if you never use Ruby in a job:
 
-- The skills transfer: syntax changes, concepts don't.
+- **The skills transfer**: syntax changes, concepts don't.
 - You'll understand OOP (Object-Oriented Programming) deeply.
 - You'll see how a mature, stable framework is designed.
 - You'll be able to build real, usable web apps now, not "toy" examples.
 
 As one long-time Rails developer put it:
 
-> After 7 years, I'd rather get better at tools that let me do a lot, than constantly chase the next trendy framework."
+> "After 7 years, I'd rather get better at tools that let me do a lot, than constantly chase the next trendy framework."
 > [source](https://www.reddit.com/r/rubyonrails/comments/12nz0wm/comment/jgkp0za/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 ## Practice Challenge
