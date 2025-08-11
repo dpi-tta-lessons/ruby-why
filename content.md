@@ -110,7 +110,7 @@ Ruby code often reads like English:
   print "Hello!"
 end
 ```
-{ .repl }
+{: .repl }
 
 This prints "Hello!" five times, no extra punctuation or complexity needed.
 
