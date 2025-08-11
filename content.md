@@ -66,8 +66,10 @@ Rails is sometimes called a "one-person framework" because it allows a single de
 
 And with AI tools improving rapidly, as Sam Altman (founder of OpenAI) puts it:
 
+>
 > "AI will make it possible for one person to build a billion dollar company very soon."
 > [source](https://www.reddit.com/r/singularity/comments/1f9flw7/sam_altman_ai_will_make_it_possible_for_one/)
+>
 
 Rails makes that kind of productivity possible today, without needing a massive team.
 
@@ -156,8 +158,10 @@ Even if you never use Ruby in a job:
 
 As one long-time Rails developer put it:
 
+>
 > "After 7 years, I'd rather get better at tools that let me do a lot, than constantly chase the next trendy framework."
 > [source](https://www.reddit.com/r/rubyonrails/comments/12nz0wm/comment/jgkp0za/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+>
 
 ## Practice Challenge
 
