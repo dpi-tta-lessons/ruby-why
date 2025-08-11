@@ -93,17 +93,16 @@ By learning the whole stack you'll:
 
 ### Readable, forgiving syntax
 
-Ruby code often reads like English:
+Ruby code often reads like English. Try reading this Ruby code snippet. Can you guess what the output will be before running it?
 
 ```ruby
-# This prints "Hello!" five times, no extra punctuation or complexity needed.
 5.times do
   print "Hello!"
 end
 ```
 {: .repl }
 
-Other languages (Java in this example) are more verbose and imposing for beginners.
+Other languages are more verbose and imposing for beginners. This Java code snippet has the exact same output as the Ruby example, but requires more boilerplate and setup to run.
 
 ```java
 public class HelloLoop {
