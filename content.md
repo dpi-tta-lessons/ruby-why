@@ -12,8 +12,7 @@ We've just learned HTML and CSS, which is great for making static web pages. But
 - Marketplaces
 - and more
 
-Ruby is a great language to bridge that gap.
-With Ruby (and Rails), you can:
+Ruby is a great language to bridge that gap. With Ruby (and Rails), you can:
 
 - Store and retrieve data from databases
 - Build user accounts, payment systems, and interactive features
@@ -21,9 +20,7 @@ With Ruby (and Rails), you can:
 
 ## 2. Learn the whole stack
 
-Many coding courses teach one language or one skill in isolation, which leaves you with gaps in your knowledge.
-
-In this course, we'll learn the whole stack, learning everything needed to take an idea from concept to a deployed, working application with real users.
+Many coding courses teach one language or one skill in isolation, which leaves you with gaps in your knowledge. In this course, we'll learn the whole stack, learning everything needed to take an idea from concept to a deployed, working application with real users.
 
 That means:
 
@@ -50,11 +47,13 @@ A strong developer has a T-shaped skill set:
 
 Ruby on Rails helps you develop breadth by touching every part of an application and learning how they fit together.
 
+<aside class="tip">
+  After you deploy your capstone, you'll identify a niche and start developing your expertise.
+</aside>
+
 ## 4. The Ruby on Rails Advantage
 
-The biggest reason Ruby became famous is Ruby on Rails (often just "Rails").
-
-Rails is a full-stack web framework that:
+The biggest reason Ruby became famous is Ruby on Rails (often just "Rails"). Rails is a full-stack web framework that:
 
 - Follows the MVC pattern (Model-View-Controller).
 - Gives you sensible defaults so you don't have to reinvent the wheel.
@@ -94,9 +93,7 @@ By learning the whole stack you'll:
 
 ## 6. See the Bigger Picture
 
-Learning Ruby isn't just about learning a language, it's about learning how to think like a developer.
-
-Ruby gives you:
+Learning Ruby isn't just about learning a language, it's about learning how to think like a developer. Ruby gives you:
 
 - **The whole stack**: You can build web applications from start to finish (HTML, CSS, JavaScript for the front-end, Ruby/Rails and SQL for the back-end).
 - **A long-term career foundation**: Once you understand programming in Ruby, you can transfer that knowledge to Python, JavaScript, Go, or any other language.
@@ -129,6 +126,9 @@ public class HelloLoop {
 }
 ```
 
+<aside class="tip">
+  Many companies use Java today. It's a great second language!
+</aside>
 
 ## 8. Community & Conventions
 
