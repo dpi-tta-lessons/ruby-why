@@ -13,7 +13,7 @@ Ruby gives you:
 - **Momentum**: It’s easier to learn your second language after your first. Ruby’s beginner-friendly nature makes it a great launchpad.
 
 <aside class="tip">
-  <strong>Tip:</strong> Think of Ruby as your "training wheels" for programming—except these wheels can take you all the way to building real, production-level applications.
+  <strong>Tip:</strong> Think of Ruby as your "training wheels" for programming, except these wheels can take you all the way to building real, production-level applications.
 </aside>
 
 ## 2. Why Ruby Works for Beginners
