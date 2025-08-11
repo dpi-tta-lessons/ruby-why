@@ -20,9 +20,7 @@ Ruby is a great language to bridge that gap. With Ruby (and Rails), you can:
 
 ## 2. Learn the whole stack
 
-Many coding courses teach one language or one skill in isolation, which leaves you with gaps in your knowledge. In this course, we'll learn the whole stack, learning everything needed to take an idea from concept to a deployed, working application with real users.
-
-That means:
+Many coding courses teach one language or one skill in isolation, which leaves you with gaps in your knowledge. This course is training you to **think like a software engineer**. We'll learn the whole stack, learning everything needed to take an idea from concept to a deployed, working application with real users. That means:
 
 - Product development skills to identify problems, write functional specifications, and understand *what* to build
 - Front-end skills (HTML, CSS, JavaScript) for presentation
@@ -33,8 +31,10 @@ That means:
 
 Why this matters:
 
-- Building something real is motivating, you'll see the impact of your work immediately.
+- **Building something real is motivating**, you'll see the impact of your work immediately.
 - You'll develop a *feel* for how software is built, which is invaluable for your career.
+- **A long-term career foundation**: Once you understand programming in Ruby, you can transfer that knowledge to Python, JavaScript, Go, or any other language.
+- **Momentum**: It's easier to learn your second language after your first. Ruby's beginner-friendly nature makes it a great launchpad.
 
 ## 3. T-Shaped Skills
 
@@ -89,17 +89,7 @@ By learning the whole stack you'll:
 - Build confidence by deploying real projects.
 - Develop taste, the ability to recognize good, maintainable code and design.
 
-<!--  -->
-
-## 6. See the Bigger Picture
-
-Learning Ruby isn't just about learning a language, it's about learning how to think like a developer. Ruby gives you:
-
-- **The whole stack**: You can build web applications from start to finish (HTML, CSS, JavaScript for the front-end, Ruby/Rails and SQL for the back-end).
-- **A long-term career foundation**: Once you understand programming in Ruby, you can transfer that knowledge to Python, JavaScript, Go, or any other language.
-- **Momentum**: It's easier to learn your second language after your first. Ruby's beginner-friendly nature makes it a great launchpad.
-
-## 7. Why Ruby Works for Beginners
+## 6. Why Ruby Works for Beginners
 
 ### Readable, forgiving syntax
 
@@ -129,7 +119,7 @@ public class HelloLoop {
   Many companies use Java. Don't be intimidated if you don't understand this code just yet. It's a great choice for your second (or third) programming language.
 </aside>
 
-## 8. Community & Conventions
+## 7. Community & Conventions
 
 Ruby and Rails have a culture of "convention over configuration", meaning:
 
@@ -143,7 +133,7 @@ The Ruby community is known for being:
 - Rich in tutorials, gems (libraries), and open-source projects.
 - Focused on sustainable, maintainable code.
 
-## 9. Companies Using Ruby & Rails
+## 8. Companies Using Ruby & Rails
 
 Ruby isn't just for learning, it powers some of the world's biggest and most successful platforms:
 
@@ -157,17 +147,16 @@ Ruby isn't just for learning, it powers some of the world's biggest and most suc
 - [Coinbase](https://stackshare.io/coinbase/coinbase) - Digital wallet that allows you to securely buy, use, and accept cryptocurrency.
 - [Twitter / X](https://stackshare.io/twitter/twitter) - Microblogging and social networking service
 
-### Practice Challenge
+<aside class="tip">
+  <strong>Practice Challenge</strong>: Pick one company from the list above. Visit its StackShare link. Identify at least two other technologies it uses alongside Ruby/Rails. Write down how those tools might interact in a real application.
+</aside>
 
-Pick one company from the list above. Visit its StackShare link. Identify at least two other technologies it uses alongside Ruby/Rails. Write down how those tools might interact in a real application.
-
-## 10. Why Ruby Is Still Worth Learning
+## 9. Why Ruby Is Still Worth Learning
 
 Even if you never use Ruby in a job:
 
 - **The skills transfer**: syntax changes, concepts don't.
 - You'll understand OOP (Object-Oriented Programming) deeply.
-- You'll see how a mature, stable framework is designed.
 - You'll be able to build real, usable web apps now, not "toy" examples.
 
 As one long-time Rails developer put it:
@@ -182,9 +171,7 @@ Think about something you'd like to build (e.g., a blog, a small game, a to-do l
 - Write down what features it would have.
 - Circle the parts that involve data (things you store), logic (things you compute), and presentation (things you display).
 
-<aside class="tip">
-  When we get to Rails, you'll see how these map perfectly to Models, Controllers, and Views.
-</aside>
+When we get to Rails, you'll see how these map perfectly to Models, Controllers, and Views.
 
 ## Wrap-Up
 
@@ -192,7 +179,7 @@ Key takeaways:
 
 - Ruby bridges the gap from static pages to full, dynamic, database-driven web apps.
 - Learning full-stack development exposes you to multiple areas of tech
-- Rails is a “one-person framework” that enables rapid development and deployment.
+- Rails is a "one-person framework" that enables rapid development and deployment.
 - Many top companies use Ruby in production.
 - Skills learned here will transfer to any tech stack.
 
