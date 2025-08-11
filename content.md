@@ -12,11 +12,7 @@ We've just learned HTML and CSS, which is great for making static web pages. But
 - Marketplaces
 - and more
 
-Ruby is a great language to bridge that gap. With Ruby (and Rails), you can:
-
-- Store and retrieve data from databases
-- Build user accounts, payment systems, and interactive features
-- Create full-featured software, not just pretty pages
+Ruby is a great language to bridge that gap. With Ruby (and Rails), you can create full-featured software, not just pretty pages
 
 ## 2. Learn the whole stack
 
