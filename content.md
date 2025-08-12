@@ -6,24 +6,27 @@ By the end of this lesson, you'll understand why Ruby is a great first programmi
 
 We've just learned HTML and CSS, which is great for making static web pages. But today's world runs on dynamic, database-connected applications, the kind you use every day:
 
-- **Social networks** – e.g., Twitter (X) lets users create accounts, post updates, follow friends, and interact in real time.
-- **Streaming services** – e.g., Netflix recommends shows based on your watch history, tracks progress, and manages subscriptions.
-- **SaaS (Software as a Service) tools** – e.g., GitHub stores and syncs your repositories for collaboration.
-- **Marketplaces** – e.g., Etsy connects buyers and sellers, handles payments, and manages inventories.
-- **Booking platforms** – e.g., Airbnb allows hosts to list properties, guests to search, and both parties to review each other.
+- **Social networks** – Twitter (X) lets users create accounts, post updates, follow friends, and interact in real time.
+- **Streaming services** – Netflix recommends shows based on your watch history, tracks progress, and manages subscriptions.
+- **SaaS (Software as a Service) tools** – GitHub stores and syncs your repositories for collaboration.
+- **Marketplaces** – Etsy connects buyers and sellers, handles payments, and manages inventories.
+- **Booking platforms** – Airbnb allows hosts to list properties, guests to search, and both parties to review each other.
 
 With Ruby, you can build full-featured applications like these:
 
-- Store and retrieve information from a database (user profiles, product lists, messages).
+- Store and retrieve information from a database.
 - Create secure user accounts with logins.
 - Allow people to interact: post, comment, buy, sell, or stream.
-
-Why this matters:
 
 When you combine HTML and CSS with Ruby, you’re not just making web pages, you're building information systems: software that stores, processes, and presents data in useful ways for people. That's the leap from "pretty portfolio website" to "full application you can run a business on."
 
 <aside class="tip">
-  Using a house for an analogy: think of HTML as the walls, CSS as the paint, and Ruby as the plumbing, wiring, and appliances that make the house work.
+  Using a body 🧍 for an analogy:
+  <ul>
+    <li>HTML is the skeleton 🩻</li>
+    <li>CSS is the clothing/makeup 👔</li>
+    <li>Ruby is the brain 🧠</li>
+  </ul>
 </aside>
 
 ## 2. Learn the Whole Stack
@@ -66,7 +69,7 @@ And with AI tools improving rapidly, as Sam Altman (founder of OpenAI) puts it:
 > [source](https://www.reddit.com/r/singularity/comments/1f9flw7/sam_altman_ai_will_make_it_possible_for_one/)
 >
 
-Rails makes that kind of productivity possible today, without needing a massive team.
+Ruby & Rails makes that kind of productivity possible today, without needing a massive team.
 
 ## 4. Setup for Career Success
 
@@ -126,12 +129,11 @@ public class HelloLoop {
 
 ### Conventions (over configuration)
 
-Ruby and Rails have a culture of "convention over configuration", meaning:
+Ruby and Rails emphasizes "convention over configuration", meaning:
 
 - You follow standard ways of organizing your code.
 - The framework does the repetitive work for you.
-- You spend more time building features, less time making decisions about folder names or file locations.
-- Avoid cognitive overload
+- You spend more time building features, less time making decisions about folder names or file locations, avoiding cognitive overload.
 
 ### Community
 
@@ -178,7 +180,7 @@ As one long-time Rails developer put it:
 
 ## Practice Challenge
 
-Think about something you'd like to build (e.g., a blog, a small game, a to-do list app).
+Think about something you'd like to build (a blog, a small game, a to-do list app, etc.).
 
 - Write down what features it would have.
 - Circle the parts that involve data (things you store), logic (things you compute), and presentation (things you display).
