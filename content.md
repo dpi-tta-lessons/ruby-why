@@ -143,6 +143,24 @@ Ruby and Rails emphasizes "convention over configuration", meaning:
 - The framework does the repetitive work for you.
 - You spend more time building features, less time making decisions about folder names or file locations, avoiding cognitive overload.
 
+### Optimized for Programmer Happiness
+
+Once upon a time we were strictly limited by computer memory and processing power. We had to get every last piece of performance out of the machine. Languages like C/C++ and Assembly optimized for machine performance.
+
+<aside class="tip">
+  For context, the Apollo Guidance Computer used to navigate Apollo spacecraft to the Moon and back in the 1960s had roughly 4kb of RAM. This was enough to store roughly 4 pages of plain text. The phone in your pocket is over a million times more powerful.
+</aside>
+
+Scaling a web service to a million users it's easier to buy another computer than worry about writing super efficient code.
+
+>
+> "I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy"
+>
+> Ruby's creator, Yukihiro "Matz" Matsumoto
+> [source](https://nurkiewicz.com/2023/02/ruby.html)
+
+The philosophy emphasizes human needs over machine efficiency, advocating for a design that makes programming a joyful and creative experience. Ruby's syntax is crafted to be readable and expressive, allowing developers to focus on problem-solving rather than boilerplate code.
+
 ### Community
 
 What really makes Ruby special is its community, which is:
