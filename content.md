@@ -12,8 +12,6 @@ We've just learned HTML and CSS, which is great for making static web pages. But
 - **Marketplaces** – [Etsy](https://etsy.com) connects buyers and sellers, handles payments, and manages inventories.
 - **Booking platforms** – [Airbnb](https://airbnb.com) allows hosts to list properties, guests to search, and both parties to review each other.
 
-![ruby logo](assets/ruby-logo.png)
-
 With Ruby, you can build full-featured applications like these:
 
 - Store and retrieve information from a database.
@@ -49,13 +47,15 @@ Why this matters:
 - **A long-term career foundation**: Once you understand programming in Ruby, you can transfer that knowledge to Python, JavaScript, Go, Java, C#, Rust, or any other language.
 - **Momentum**: It's easier to learn your second language after your first. Ruby's beginner-friendly nature makes it a great launchpad.
 
-![restaurant analogy](assets/restaurant.webp)
+<aside>
+  Learning full stack is like learning to run your own restaurant. You'll have to take orders, cook food, serve customers, set tables, etc.
+
+  <img alt="restaurant analogy" src="assets/restaurant.webp">
+</aside>
 
 ## 3. The Ruby on Rails Advantage
 
 The reason we must learn Ruby is so we can leverage the [Ruby on Rails ("Rails") web framework](https://rubyonrails.org/).
-
-![rails logo](assets/rails-logo.svg)
 
 Rails is a full-stack web framework that:
 
