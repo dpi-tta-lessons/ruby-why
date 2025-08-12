@@ -6,11 +6,13 @@ By the end of this lesson, you'll understand why Ruby is a great first programmi
 
 We've just learned HTML and CSS, which is great for making static web pages. But today's world runs on dynamic, database-connected applications, the kind you use every day:
 
-- **Social networks** – Twitter (X) lets users create accounts, post updates, follow friends, and interact in real time.
-- **Streaming services** – Netflix recommends shows based on your watch history, tracks progress, and manages subscriptions.
-- **SaaS (Software as a Service) tools** – GitHub stores and syncs your repositories for collaboration.
-- **Marketplaces** – Etsy connects buyers and sellers, handles payments, and manages inventories.
-- **Booking platforms** – Airbnb allows hosts to list properties, guests to search, and both parties to review each other.
+- **Social networks** – [Twitter (X)](https://x.com) lets users create accounts, post updates, follow friends, and interact in real time.
+- **Streaming services** – [Netflix](https://netflix.com) recommends shows based on your watch history, tracks progress, and manages subscriptions.
+- **SaaS (Software as a Service) tools** – [GitHub](https://github.com) stores and syncs your repositories for collaboration.
+- **Marketplaces** – [Etsy](https://etsy.com) connects buyers and sellers, handles payments, and manages inventories.
+- **Booking platforms** – [Airbnb](https://airbnb.com) allows hosts to list properties, guests to search, and both parties to review each other.
+
+![ruby logo](assets/ruby-logo.png)
 
 With Ruby, you can build full-featured applications like these:
 
@@ -47,9 +49,15 @@ Why this matters:
 - **A long-term career foundation**: Once you understand programming in Ruby, you can transfer that knowledge to Python, JavaScript, Go, Java, C#, Rust, or any other language.
 - **Momentum**: It's easier to learn your second language after your first. Ruby's beginner-friendly nature makes it a great launchpad.
 
+![restaurant analogy](assets/restaurant.webp)
+
 ## 3. The Ruby on Rails Advantage
 
-The reason we must learn Ruby is so we can leverage the [Ruby on Rails ("Rails") web framework](https://rubyonrails.org/). Rails is a full-stack web framework that:
+The reason we must learn Ruby is so we can leverage the [Ruby on Rails ("Rails") web framework](https://rubyonrails.org/).
+
+![rails logo](assets/rails-logo.svg)
+
+Rails is a full-stack web framework that:
 
 - Follows the MVC pattern (Model-View-Controller).
 - Gives you sensible defaults so you don't have to reinvent the wheel.
@@ -209,3 +217,9 @@ Key takeaways:
 - It has a large, helpful community.
   - Correct! The Ruby and Rails communities are known for being welcoming and resource-rich.
 {: .choose_all #why_ruby title="Why Learn Ruby" answer="[1,3]"}
+
+## References
+
+- [Ruby on Rails: The Documentary](https://www.youtube.com/watch?v=HDKUEXBF3B4)
+- [Rails is omakase](https://dhh.dk/2012/rails-is-omakase.html)
+- [The Rails Doctrine](https://rubyonrails.org/doctrine)
