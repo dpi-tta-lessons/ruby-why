@@ -6,21 +6,33 @@ By the end of this lesson, you'll understand why Ruby is a great first programmi
 
 We've just learned HTML and CSS, which is great for making static web pages. But today's world runs on dynamic, database-connected applications, the kind you use every day:
 
-- Social networks
-- Streaming services
-- SaaS (Software as a Service) tools
-- Marketplaces
-- and more
+- **Social networks** – e.g., Twitter (X) lets users create accounts, post updates, follow friends, and interact in real time.
+- **Streaming services** – e.g., Netflix recommends shows based on your watch history, tracks progress, and manages subscriptions.
+- **SaaS (Software as a Service) tools** – e.g., GitHub stores and syncs your repositories for collaboration.
+- **Marketplaces** – e.g., Etsy connects buyers and sellers, handles payments, and manages inventories.
+- **Booking platforms** – e.g., Airbnb allows hosts to list properties, guests to search, and both parties to review each other.
 
-Ruby is a great language to bridge that gap. With Ruby (and Rails), you can create full-featured software, not just pretty pages
+With Ruby, you can build full-featured applications like these:
 
-## 2. Learn the whole stack
+- Store and retrieve information from a database (user profiles, product lists, messages).
+- Create secure user accounts with logins.
+- Allow people to interact: post, comment, buy, sell, or stream.
+
+Why this matters:
+
+When you combine HTML and CSS with Ruby, you’re not just making web pages, you're building information systems: software that stores, processes, and presents data in useful ways for people. That's the leap from "pretty portfolio website" to "full application you can run a business on."
+
+<aside class="tip">
+  Using a house for an analogy: think of HTML as the walls, CSS as the paint, and Ruby as the plumbing, wiring, and appliances that make the house work.
+</aside>
+
+## 2. Learn the Whole Stack
 
 Many coding courses teach one language or one skill in isolation, which leaves you with gaps in your knowledge. This course is training you to **think like a software engineer**. We'll learn the whole stack, learning everything needed to take an idea from concept to a deployed, working application with real users. That means:
 
 - Product development skills to identify problems, write functional specifications, and understand *what* to build
-- Front-end skills (HTML, CSS, JavaScript) for presentation
-- Back-end skills (Ruby, Rails, databases) for logic and data
+- Front-end skills (HTML/CSS/JavaScript) for presentation
+- Back-end skills (Ruby/SQL) for logic and data
 - Deployment skills to put your app online
 - User interviewing and analytical skills to figure out what comes next
 - Collaboration skills to work with other developers on a team
@@ -29,35 +41,18 @@ Why this matters:
 
 - **Building something real is motivating**, you'll see the impact of your work immediately.
 - You'll develop a *feel* for how software is built, which is invaluable for your career.
-- **A long-term career foundation**: Once you understand programming in Ruby, you can transfer that knowledge to Python, JavaScript, Go, or any other language.
+- **A long-term career foundation**: Once you understand programming in Ruby, you can transfer that knowledge to Python, JavaScript, Go, Java, C#, Rust, or any other language.
 - **Momentum**: It's easier to learn your second language after your first. Ruby's beginner-friendly nature makes it a great launchpad.
 
-## 3. T-Shaped Skills
+## 3. The Ruby on Rails Advantage
 
-A strong developer has a T-shaped skill set:
-
-- **Breadth**: Understanding multiple areas of tech (databases, APIs, design, deployment).
-- **Depth**: High-level expertise in at least one discipline.
-
-![t-shaped skill set](assets/t-shaped-skills.webp)
-
-Ruby on Rails helps you develop breadth by touching every part of an application and learning how they fit together.
-
-<aside class="tip">
-  After you deploy your capstone, you'll identify a niche and start developing your expertise.
-</aside>
-
-## 4. The Ruby on Rails Advantage
-
-The biggest reason Ruby became famous is Ruby on Rails (often just "Rails"). Rails is a full-stack web framework that:
+The reason we must learn Ruby is so we can leverage the [Ruby on Rails ("Rails") web framework](https://rubyonrails.org/). Rails is a full-stack web framework that:
 
 - Follows the MVC pattern (Model-View-Controller).
 - Gives you sensible defaults so you don't have to reinvent the wheel.
 - Lets you go from idea to working prototype fast.
 
-<!-- TODO: add video to rails world -->
-
-Rails is sometimes called a "one-person framework" because it allows a single developer to:
+Rails is sometimes called the ["one-person framework"](https://world.hey.com/dhh/the-one-person-framework-711e6318) because it allows a single developer to:
 
 - Design
 - Build
@@ -73,7 +68,7 @@ And with AI tools improving rapidly, as Sam Altman (founder of OpenAI) puts it:
 
 Rails makes that kind of productivity possible today, without needing a massive team.
 
-## 5. Setup for Career Success
+## 4. Setup for Career Success
 
 Learning Ruby & Rails reduces friction and increases your learning velocity because:
 
@@ -87,7 +82,20 @@ By learning the whole stack you'll:
 - Build confidence by deploying real projects.
 - Develop taste, the ability to recognize good, maintainable code and design.
 
-## 6. Why Ruby Works for Beginners
+A strong developer has a T-shaped skill set:
+
+- **Breadth**: Understanding multiple areas of tech (databases, APIs, design, deployment).
+- **Depth**: High-level expertise in at least one discipline.
+
+![t-shaped skill set](assets/t-shaped-skills.webp)
+
+We'll leverage web frameworks like [Sinatra](https://sinatrarb.com/) and [Rails](https://rubyonrails.org/) to help you develop breadth by touching every part of an application and learning how it all fits together.
+
+<aside class="tip">
+  After you submit your capstone project, you'll identify a niche and start developing your expertise.
+</aside>
+
+## 5. Why Ruby Works for Beginners
 
 ### Readable, forgiving syntax
 
@@ -116,21 +124,26 @@ public class HelloLoop {
   Many companies use Java. Don't be intimidated if you don't understand this code just yet. It's a great choice for your second (or third) programming language.
 </aside>
 
-## 7. Community & Conventions
+### Conventions (over configuration)
 
 Ruby and Rails have a culture of "convention over configuration", meaning:
 
 - You follow standard ways of organizing your code.
 - The framework does the repetitive work for you.
 - You spend more time building features, less time making decisions about folder names or file locations.
+- Avoid cognitive overload
 
-The Ruby community is known for being:
+### Community
 
-- Welcoming to beginners.
-- Rich in tutorials, gems (libraries), and open-source projects.
-- Focused on sustainable, maintainable code.
+What really makes Ruby special is its community, which is:
 
-## 8. Companies Using Ruby & Rails
+- [Welcoming to beginners](https://en.wiktionary.org/wiki/MINASWAN)
+- Rich in tutorials: [GoRails](https://gorails.com/), [Codecademy](https://www.codecademy.com/learn/learn-ruby), [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails), and [Exercism](https://exercism.org/tracks/ruby)
+- [Gems (libraries)](https://rubygems.org/) – reusable packages of Ruby code you can add to your projects
+- Open-source projects like [Ruby on Rails](https://rubyonrails.org/)
+- Focused on sustainable, maintainable code, following principles from [The Rails Doctrine](https://rubyonrails.org/doctrine)
+
+## 6. Companies Using Ruby & Rails
 
 Ruby isn't just for learning, it powers some of the world's biggest and most successful platforms:
 
@@ -148,7 +161,7 @@ Ruby isn't just for learning, it powers some of the world's biggest and most suc
   <strong>Practice Challenge</strong>: Pick one company from the list above. Visit its StackShare link. Identify at least two other technologies it uses alongside Ruby/Rails. Write down how those tools might interact in a real application.
 </aside>
 
-## 9. Why Ruby Is Still Worth Learning
+## 7. Why Ruby Is Still Worth Learning
 
 Even if you never use Ruby in a job:
 
@@ -194,10 +207,3 @@ Key takeaways:
 - It has a large, helpful community.
   - Correct! The Ruby and Rails communities are known for being welcoming and resource-rich.
 {: .choose_all #why_ruby title="Why Learn Ruby" answer="[1,3]"}
-
-## References
-
-- [The One Person Framework](https://world.hey.com/dhh/the-one-person-framework-711e6318)
-- [Ruby on Rails: The Documentary](https://www.youtube.com/watch?v=HDKUEXBF3B4)
-- [Rails is Omakase](https://dhh.dk/2012/rails-is-omakase.html)
-- [The Rails Doctrine](https://rubyonrails.org/doctrine)
