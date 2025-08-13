@@ -2,6 +2,10 @@
 
 By the end of this lesson, you'll understand why Ruby is a great first programming language, how it fits into the bigger picture of web development, and why it's worth learning, even if you don't end up using it in your first job.
 
+<aside class="tip">
+  <a href="https://youtu.be/LQAE9rXZdks">Video</a>
+</aside>
+
 ## 1. From Static Pages to Real Applications
 
 We've just learned HTML and CSS, which is great for making static web pages. But today's world runs on dynamic, database-connected applications, the kind you use every day:
