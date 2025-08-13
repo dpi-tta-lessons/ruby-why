@@ -238,6 +238,8 @@ Key takeaways:
 
 ## References
 
+- [Official Ruby Programming Language website](https://www.ruby-lang.org/en/documentation/)
 - [Ruby on Rails: The Documentary](https://www.youtube.com/watch?v=HDKUEXBF3B4)
 - [Rails is omakase](https://dhh.dk/2012/rails-is-omakase.html)
 - [The Rails Doctrine](https://rubyonrails.org/doctrine)
+- [List of Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#ruby)
